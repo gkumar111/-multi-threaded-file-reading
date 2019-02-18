@@ -9,6 +9,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * Multi thread to write file
  * 
  * @author Administrator
+ 
  * 
  */
 public class ThreadDemo {
